@@ -1,0 +1,33 @@
+nav {
+  background-color: rgb(35, 36, 37);
+  color: white;
+  font-size: 40px;
+  font-family: "Helvetica", cursive, sans-serif;
+  padding: 35px 5px;
+}
+
+h3 {
+  display: inline-block;
+  font-weight: 550;
+  margin: 15px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+li {
+  display:inline-block;
+  margin: 15px;
+}
+
+form {
+  display: inline-block;
+}
+
+input[type="search"],
+button[type="submit"] {
+  vertical-align: middle; /* Align input and button vertically */
+}
