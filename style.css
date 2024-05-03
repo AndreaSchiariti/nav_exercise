@@ -67,6 +67,11 @@ button[type="submit"] {
   color: green;
 }
 
+button[type="submit"]:hover {
+  color: white;
+  background-color: green;
+}
+
 .dropdown{
   border: 0;
   background-color: var(--bg-color);
